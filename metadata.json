@@ -1,0 +1,7 @@
+{
+  "name": "Christmas Gesture Magic",
+  "description": "A high-end, gesture-controlled 3D Christmas experience using MediaPipe and Three.js. Upload photos to decorate the tree, use hand gestures to explode the tree into particles or inspect memories.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
